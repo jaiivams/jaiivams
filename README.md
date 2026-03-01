@@ -1,8 +1,3 @@
-<!-- JAIVAM.TECH // PROFILE README v1.0 -->
-<!-- ============================================================ -->
-<!--  Instrução: Cole este conteúdo no repositório jaiivams/jaiivams -->
-<!-- ============================================================ -->
-
 <div align="center">
 
 ```
@@ -14,9 +9,6 @@
 
 **"Eu não uso ferramentas. Eu construo elas."**  
 *"I don't use tools. I build them."*
-
-[![Website](https://img.shields.io/badge/jaivam.tech-050505?style=for-the-badge&logo=safari&logoColor=912CEE)](https://jaivam.tech)
-[![Email](https://img.shields.io/badge/contato@jaivam.tech-050505?style=for-the-badge&logo=gmail&logoColor=912CEE)](mailto:contato@jaivam.tech)
 
 </div>
 
