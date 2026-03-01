@@ -14,7 +14,7 @@ Sou Jai, arquiteto de soluções digitais operando na intersecção entre market
 ---
 
 
-### `// STACK & FERRAMENTAS`
+### `// Stack & Ferramentas`
 
 **Dados & Analytics**
 
